@@ -1,0 +1,121 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../css/bootstap.css">
+	<link rel="stylesheet" href="../css/style.css">
+	<link rel="stylesheet" href="../css/all.min.css">
+	<link rel="stylesheet" href="../css/owl.carousel.css">
+	<link rel="stylesheet" href="../css/owl.theme.default.css">
+	<link rel="stylesheet" href="../images/favicon.png" type="image/x-icon">
+	
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+</head>
+    
+<body>
+	<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="../index.html"> <img src="../images/logo.png" alt=""></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="../index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../men.html">Men's</a>
+        </li>
+		  <li class="nav-item">
+          <a class="nav-link" href="../women.html">Women's</a>
+        </li>
+		  <li class="nav-item">
+          <a class="nav-link" href="#">Kid's</a>
+        </li>
+		  <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Page
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">About Us</a></li>
+            <li><a class="dropdown-item" href="#">Products</a></li>
+            <li><a class="dropdown-item" href="#">Single product</a></li>
+            <li><a class="dropdown-item" href="#">Contacts</a></li>
+            
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Feature
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Feature 1</a></li>
+            <li><a class="dropdown-item" href="#">Feature 2</a></li>
+            <li><a class="dropdown-item" href="#">Feature 3</a></li>
+            <li><a class="dropdown-item" href="#">Feature 4</a></li>
+            
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled">Disabled</a>
+        </li>
+      </ul>
+      
+    </div>
+  </div>
+</nav>
+	
+	
+	<!-- TemplateBeginEditable name="Fullwidth" -->
+	<main></main>
+	<!-- TemplateEndEditable -->
+<footer class="bg-dark text-light">
+	<div class="container">
+			<div class="row pt-4">
+				<div class="col-lg-3">
+				<a href="#"> <img src="../images/white-logo.png" alt=""></a>
+				<p class="pt-3"> 16501 Collins Ave, Sunny Isles Beach, Fl 33160, United States</p>
+				<p>010-020-0234</p>
+			</div>
+			<div class="col-lg-3">
+			<h4> Shopping &amp; Categoties </h4>
+			<ul class="navbar-nav">
+				<li class="navbar-item"> <a href="../men.html" class="navbar-link"> Men's Shopping</a></li>
+				<li class="navbar-item"> <a href="../women.html" class="navbar-link"> Women's Shopping</a></li>
+				<li class="navbar-item"> <a href="#" class="navbar-link"> Kid's Shopping</a></li>
+				</ul>	
+			</div>
+			<div class="col-lg-3">
+			<h4>Usefull Link</h4>
+			<ul class="navbar-nav">
+				<li class="navbar-item"> <a href="#" class="navbar-link"> Home Page</a></li>
+				<li class="navbar-item"> <a href="#" class="navbar-link"> About Us</a></li>
+				<li class="navbar-item"> <a href="#" class="navbar-link"> Help</a></li>
+				<li class="navbar-item"> <a href="#" class="navbar-link"> Contact</a></li>
+				</ul>
+			</div>
+			<div class="col-lg-3">
+			<h4> Help &amp; Information </h4>
+			<ul class="navbar-nav">
+				<li class="navbar-item"> <a href="#" class="navbar-link"> Help</a></li>
+				<li class="navbar-item"> <a href="#" class="navbar-link"> FAQ</a></li>
+				<li class="navbar-item"> <a href="#" class="navbar-link"> Shipping</a></li>
+				<li class="navbar-item"> <a href="#" class="navbar-link"> Tracking ID</a></li>
+				</ul>	
+			</div>
+		</div>
+		</div>
+	</footer>
+	
+	<script src="../js/bootstrap.bundle.min.js"></script>
+	<script src="../js/jquery-3.6.0.min.js"></script>
+	<script src="../js/owl.carousel.js"></script>
+	<script src="../js/control.js"></script>
+</body>
+</html>
